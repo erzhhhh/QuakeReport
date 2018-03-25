@@ -114,7 +114,6 @@ public class EarthquakeActivity extends AppCompatActivity
 
         if (earthquakes != null && !earthquakes.isEmpty()) {
             mAdapter.addAll(earthquakes);
-            //updateUi(earthquakes);
         }
     }
 
