@@ -2,7 +2,7 @@
 
 **QuakeReport** is an Android application that shows a list of recent earthquakes around the world. It fetches real-time earthquake data from the **USGS Earthquake API** and displays it in a user-friendly format.
 
-This app was originally built as part of the *Android Basics: Networking* course and demonstrates how to work with web APIs, parse JSON, and display data in a list. :contentReference[oaicite:1]{index=1}
+This app was originally built as part of the *Android Basics: Networking* course and demonstrates how to work with web APIs, parse JSON, and display data in a list.
 
 ---
 
